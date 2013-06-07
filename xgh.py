@@ -228,9 +228,9 @@ Commands:
     help                display this message
     status              show the status of this repo and its dependencies
     git <cmd>           apply the git command to the repo and its dependencies
-    list                list all release versions
-    checkout <version>  checkout a particular version
-    getdeps             clone the dependencies
+    list                list all release versions of this repo
+    checkout <version>  checkout a particular version of this repo
+    getdeps             clone the dependencies of this repo
 """
 
 
